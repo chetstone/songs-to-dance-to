@@ -20,16 +20,28 @@ h2 {
 font-family: Futura-Medium;
 font-size: 20px;
 color: #EE555F;
-line-height: 25px;
+line-height: 50px;
+}
+
+.body-text {
+  font-family: Verdana;
+  font-size: 15px;
+  color: #424242;
+  line-height: 30px;
+}
+
+.body-text a {
+  color:#32B7C9 !important;
 }
 
 .form-control {
   font-family: Futura-Medium;
 }
 
-.body-text {
+.footer-text {
   font-family: Futura-Medium;
   font-size: 12px;
+  color:#424242;
 }
 
 
@@ -44,7 +56,7 @@ line-height: 25px;
 }
 
 .container-full a {
-  color: #EE555F;
+  color: #A4A4A4;
   text-decoration:none;
 }
 

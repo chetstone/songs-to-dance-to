@@ -27,6 +27,11 @@ line-height: 25px;
   font-family: Futura-Medium;
 }
 
+.body-text {
+  font-family: Futura-Medium;
+  font-size: 15px;
+}
+
 
 /* Custom container */
 .container-full {
@@ -39,7 +44,7 @@ line-height: 25px;
 }
 
 .container-full a {
-  color: #868282;
+  color: #32B7C9;
   text-decoration:none;
 }
 

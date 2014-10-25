@@ -29,7 +29,7 @@ line-height: 25px;
 
 .body-text {
   font-family: Futura-Medium;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 
@@ -44,7 +44,7 @@ line-height: 25px;
 }
 
 .container-full a {
-  color: #32B7C9;
+  color: #EE555F;
   text-decoration:none;
 }
 
@@ -62,3 +62,4 @@ line-height: 25px;
     background-color: #EE555F;
     border-color:#EE555F;
 }
+

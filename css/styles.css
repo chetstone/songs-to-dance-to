@@ -27,6 +27,13 @@ color: #EE555F;
 line-height: 25px;
 }
 
+h3 {
+font-family: Futura-Medium;
+font-size: 16px;
+color: #32B7C9;
+line-height: 25px;
+}
+
 .body-text {
   font-family: Verdana;
   font-size: 15px;

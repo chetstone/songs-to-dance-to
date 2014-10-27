@@ -3,7 +3,7 @@ html,body {
 }
 
 h1 {
-font-family: Futura-Medium;
+font-family: Futura-Medium, sans-serif;
 font-size: 110px;
 color: #32B7C9;
 line-height: 75px;
@@ -14,28 +14,28 @@ h1 a {
 }
 
 .lead {
-font-family: Futura-Medium;
+font-family: Futura-Medium, sans-serif;
 font-size: 25px;
 color: #32B7C9;
 line-height: 50px;
 }
 
 h2 {
-font-family: Futura-Medium;
+font-family: Futura-Medium, sans-serif;
 font-size: 20px;
 color: #EE555F;
 line-height: 25px;
 }
 
 h3 {
-font-family: Futura-Medium;
+font-family: Futura-Medium, sans-serif;
 font-size: 16px;
 color: #32B7C9;
 line-height: 25px;
 }
 
 .body-text {
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   font-size: 15px;
   color: #424242;
   line-height: 25px;
@@ -46,11 +46,11 @@ line-height: 25px;
 }
 
 .form-control {
-  font-family: Futura-Medium;
+  font-family: Futura-Medium, sans-serif;
 }
 
 .footer-text {
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   font-size: 12px;
   color:#424242;
 }
@@ -76,13 +76,13 @@ line-height: 25px;
 }
 
 .v-center {
-  margin-top:7%;
+  margin-top:5%;
 }
   
 .btn-primary {
   background-color: #32B7C9;
   border-color: #32B7C9;
-  font-family: Futura-Medium;
+  font-family: Futura-Medium, sans-serif;
 }
 
 .btn-primary:hover { 

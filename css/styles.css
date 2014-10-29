@@ -47,6 +47,7 @@ line-height: 25px;
 
 .form-control {
   font-family: Futura-Medium, sans-serif;
+  border-radius: 6px !important;
 }
 
 .footer-text {

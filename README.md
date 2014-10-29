@@ -1,2 +1,2 @@
-Landing page for songs to dance to music newsletter
+just a music site
 =================

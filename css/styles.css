@@ -89,3 +89,16 @@ line-height: 25px;
     background-color: #EE555F;
     border-color:#EE555F;
 }
+
+.btn-secondary {
+  background-color: #32B7C9;
+  border-color: #32B7C9;
+  font-family: Futura-Medium, sans-serif;
+  color:#ffffff;
+}
+
+.btn-secondary:hover { 
+    background-color: #EE555F;
+    border-color:#EE555F;
+    color:#ffffff;
+}
